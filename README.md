@@ -1,4 +1,4 @@
-# little-lemon-backend
+# little_lemon_backend
 Meta Back End Developer Capstone Project
 
 ## Commands that Usually Used (On Windows OS)
